@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/database/db_oa.sql=UTF-8
+encoding//WebRoot/script/DataShowManager.js=UTF-8
+encoding//WebRoot/script/DemoData.js=UTF-8
+encoding//WebRoot/script/PageUtils.js=UTF-8
+encoding//WebRoot/script/menu.js=UTF-8
+encoding//WebRoot/script/pageCommon.js=UTF-8
+encoding//WebRoot/style/blue/Thumbs.db=UTF-8
+encoding//config/log4j.properties=UTF-8
+encoding//src/org/apache/struts2/views/jsp/ui/AnchorTag.java=UTF-8
+encoding//src/xiao/oa/util/DepartmentUtils.java=GBK
+encoding//test/xiao/oa/test/tree/TreeViewPractice.java=UTF-8
